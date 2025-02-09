@@ -1,0 +1,22 @@
+{
+    "trainers": [
+        {
+            "nombre": "Pedro",
+            "Jornada": "Fulltime",
+            "Ruta": "Java"
+        },
+        {
+            "nombre":"Luis",
+            "Jornada":"Fulltime",
+            "Ruta":"NodeJS"
+        },
+        {
+            "nombre":"Jorge",
+            "Jornada":"Fulltime",
+            "Ruta":".NET"
+        },
+        {
+            
+        }
+    ]
+}

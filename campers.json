@@ -3,7 +3,7 @@
     {
       "numero_documento": "12345678",
       "nombre": "Ana",
-      "apellido": "P\u00e9rez",
+      "apellido": "Perez",
       "direccion": "Calle 1 # 234-56",
       "acudiente": "Carlos P\u00e9rez",
       "telefono": "3001234567"
@@ -11,17 +11,17 @@
     {
       "numero_documento": "23456789",
       "nombre": "Juan",
-      "apellido": "G\u00f3mez",
+      "apellido": "Gomez",
       "direccion": "Avenida 2 # 567-89",
-      "acudiente": "Mar\u00eda G\u00f3mez",
+      "acudiente": "Maria Gomez",
       "telefono": "3002345678"
     },
     {
       "numero_documento": "34567890",
       "nombre": "Carlos",
-      "apellido": "L\u00f3pez",
+      "apellido": "Lopez",
       "direccion": "Calle 3 # 678-90",
-      "acudiente": "Elena L\u00f3pez",
+      "acudiente": "Elena Lopez",
       "telefono": "3003456789"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "numero_documento": "56789012",
-      "nombre": "Pedro",
+      "nombre": "Mario",
       "apellido": "Mart\u00ednez",
       "direccion": "Carrera 5 # 890-12",
       "acudiente": "Raquel Mart\u00ednez",
@@ -95,12 +95,20 @@
       "direccion": "Call"
     },
     {
-      "NumId": "1",
+      "numero_documento": "1",
       "Nombres": "1",
       "Apellidos": "1",
       "Direccion": "1",
       "Acudiente": "1",
       "Telefonos": "1"
+    },
+    {
+      "numero_documento": "2",
+      "Nombres": "2",
+      "Apellidos": "2",
+      "Direccion": "2",
+      "Acudiente": "2",
+      "Telefonos": "2"
     }
   ]
 }

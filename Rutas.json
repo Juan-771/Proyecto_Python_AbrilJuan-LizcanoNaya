@@ -1,0 +1,56 @@
+{
+    "Rutas": [
+        {
+            "Java": {"Intro": "[]",
+                    "Python":"[]",
+                    "HTML/CSS":"[]",
+                    "Scrum":"[]",
+                    "Git":"[]",
+                    "JavaScript":"[]",
+                    "Intro Back":"[]",
+                    "intro BBDD":"[]", 
+                    "MySQL":"[]",
+                    "Java":"[]",
+                    "PostgreSQL":"[]", 
+                    "SpringBoot":"[]"
+        }
+    },
+        {
+            "NodeJS":
+            {"Intro": "[]",
+            "Python":"[]",
+            "HTML/CSS":"[]",
+            "Scrum":"[]",
+            "Git":"[]",
+            "JavaScript":"[]",
+            "Intro Back":"[]",
+            "intro BBDD":"[]", 
+            "MongoDB":"[]",
+            "Java":"[]",
+            "MySQL":"[]", 
+            "Express":"[]"
+            }
+        },
+        {
+            ".NET":{
+"Intro":"[]",
+"Python":"[]",
+"HTML/CSS":"[]",
+"Scrum":"[]",
+"Git":"[]",
+"JavaScript":"[]",
+"Intro Back":"[]",
+"Intro BBDD":"[]",
+"MySQL":"[]",
+"C#":"[]",
+"PostgreSQL":"[]",
+".Net Core}":"[]"
+        }
+    }
+
+
+
+
+
+]}
+    
