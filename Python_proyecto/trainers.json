@@ -3,20 +3,32 @@
         {
             "nombre": "Pedro",
             "Jornada": "Fulltime",
-            "Ruta": "Java"
+            "Ruta": ["Java"]
         },
         {
             "nombre":"Luis",
             "Jornada":"Fulltime",
-            "Ruta":"NodeJS"
+            "Ruta":["NodeJS"]
         },
         {
             "nombre":"Jorge",
             "Jornada":"Fulltime",
-            "Ruta":".NET"
+            "Ruta":[".NET"]
         },
         {
-            
+            "nombre":"Naya",
+            "Jornada":"Midtime",
+            "Ruta":[]
+        },
+        {
+            "nombre":"Juan",
+            "Jornada":"Midtime",
+            "Ruta":[]
+        },
+        {
+            "nombre":"Rafael",
+            "Jornada":"Midtime",
+            "Ruta":[]
         }
     ]
 }

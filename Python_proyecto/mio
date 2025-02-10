@@ -1,0 +1,45 @@
+print("2. Registrarse")
+if opc == "2":
+        
+        datos = abrirJSON()
+
+        
+        nuevo_camper = {
+            "numero_documento": input("Ingresa tu Número de Identificación: "),
+            "Nombres": input("Ingresa tus nombres: "),
+            "Apellidos": input("Ingresa tus apellidos: "),
+            "Direccion": input("Ingresa la dirección de tu vivienda: "),
+            "Acudiente": input("Ingresa el nombre de tu acudiente: "),
+            "Telefonos": input("Ingresa tu número de teléfono: ")
+        }
+
+        
+        datos["campers"].append(nuevo_camper)
+
+        
+        guardarJSON(datos)
+
+        print(" Nuevo camper registrado correctamente.")
+
+
+
+print("El Número de Identificación no está registrado.")
+opc_registrar = input("¿Deseas registrarte? (1. Sí, 2. No): ")
+if opc_registrar == "1":
+                    # Si no está registrado, permitir el registro
+                nuevo_camper = {
+                    "numero_documento": numId,
+                    "Nombres": input("Ingresa tus nombres: "),
+                    "Apellidos": input("Ingresa tus apellidos: "),
+                    "Direccion": input("Ingresa la dirección de tu vivienda: "),
+                    "Acudiente": input("Ingresa el nombre de tu acudiente: "),
+                    "Telefonos": input("Ingresa tu número de teléfono: ")
+                }
+
+                # Añadir el nuevo camper a la lista de campers
+                datos["campers"].append(nuevo_camper)
+
+                # Guardar los datos actualizados en el archivo JS
+                guardarJSON(datos)
+
+                print(" Nuevo camper registrado correctamente.")
