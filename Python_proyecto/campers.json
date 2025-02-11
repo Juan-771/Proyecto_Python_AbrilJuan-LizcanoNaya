@@ -1,125 +1,103 @@
 {
-  "campers":[ {
-    "1": {
+  "campers": [
+    {
       "numero_documento": "1",
       "nombre": "Ana",
       "apellido": "Perez",
       "direccion": "Calle 1 # 234-56",
-      "acudiente": "Carlos P\u00e9rez",
-      "telefono": "3001234567"
-    }
-  },
-  {
-    "2": {
+      "acudiente": "Carlos Perez",
+      "telefono": "3001234567",
+      "Estado": ["en proceso"],
+      "Riesgo ":[],
+      "grupo":[]
+      
+
+    },
+    {
       "numero_documento": "2",
       "nombre": "Juan",
       "apellido": "Gomez",
       "direccion": "Avenida 2 # 567-89",
       "acudiente": "Maria Gomez",
       "telefono": "3002345678"
+    },
+    {
+      "numero_documento": "3",
+      "nombre": "Carlos",
+      "apellido": "Lopez",
+      "direccion": "Calle 3 # 678-90",
+      "acudiente": "Elena Lopez",
+      "telefono": "3003456789"
+    },
+    {
+      "numero_documento": "4",
+      "nombre": "Laura",
+      "apellido": "Rodriguez",
+      "direccion": "Calle 4 # 789-01",
+      "acudiente": "Jose Rodriguez",
+      "telefono": "3004567890"
+    },
+    {
+      "numero_documento": "5",
+      "nombre": "Mario",
+      "apellido": "Martinez",
+      "direccion": "Carrera 5 # 890-12",
+      "acudiente": "Raquel Martinez",
+      "telefono": "3005678901"
+    },
+    {
+      "numero_documento": "6",
+      "nombre": "Lucia",
+      "apellido": "Fernandez",
+      "direccion": "Calle 6 # 901-23",
+      "acudiente": "Fernando Fernandez",
+      "telefono": "3006789012"
+    },
+    {
+      "numero_documento": "7",
+      "nombre": "David",
+      "apellido": "Sanchez",
+      "direccion": "Avenida 7 # 012-34",
+      "acudiente": "Marta Sanchez",
+      "telefono": "3007890123"
+    },
+    {
+      "numero_documento": "8",
+      "nombre": "Isabel",
+      "apellido": "Gonzalez",
+      "direccion": "Calle 8 # 123-45",
+      "acudiente": "Jorge Gonzalez",
+      "telefono": "3008901234"
+    },
+    {
+      "numero_documento": "9",
+      "nombre": "Andres",
+      "apellido": "Diaz",
+      "direccion": "Carrera 9 # 234-56",
+      "acudiente": "Patricia Diaz",
+      "telefono": "3009012345"
+    },
+    {
+      "numero_documento": "10",
+      "nombre": "Sofia",
+      "apellido": "Perez",
+      "direccion": "Calle 10 # 345-67",
+      "acudiente": "Carlos Perez",
+      "telefono": "3001023456"
+    },
+    {
+      "numero_documnto": "11",
+      "nombre": "Raul",
+      "apellido": "Hernandez",
+      "direccion": "Avenida 11 # 456-78",
+      "acudiente": "Lucia Hernandez",
+      "telefono": "3001123456"
+    },
+    {
+      "numero_documento": "12",
+      "nombre": "Maria",
+      "apellido": "Jimenenez",
+      "direccion": "Call"
     }
-  },
-  {
-    "3":{
-    "numero_documento": "3",
-    "nombre": "Carlos",
-    "apellido": "Lopez",
-    "direccion": "Calle 3 # 678-90",
-    "acudiente": "Elena Lopez",
-    "telefono": "3003456789"}
-  },
-  { "4":{
-    "numero_documento": "4",
-    "nombre": "Laura",
-    "apellido": "Rodr\u00edguez",
-    "direccion": "Calle 4 # 789-01",
-    "acudiente": "Jos\u00e9 Rodr\u00edguez",
-    "telefono": "3004567890"}
-  },
-  { "5":{
-    "numero_documento": "5",
-    "nombre": "Mario",
-    "apellido": "Mart\u00ednez",
-    "direccion": "Carrera 5 # 890-12",
-    "acudiente": "Raquel Mart\u00ednez",
-    "telefono": "3005678901"}
-  },
-  { "6":{
-    "numero_documento": "6",
-    "nombre": "Luc\u00eda",
-    "apellido": "Fern\u00e1ndez",
-    "direccion": "Calle 6 # 901-23",
-    "acudiente": "Fernando Fern\u00e1ndez",
-    "telefono": "3006789012"}
-  },
-  { "7":{
-    "numero_documento": "7",
-    "nombre": "David",
-    "apellido": "S\u00e1nchez",
-    "direccion": "Avenida 7 # 012-34",
-    "acudiente": "Marta S\u00e1nchez",
-    "telefono": "3007890123"}
-  },
-  {
-    "numero_documento": "8",
-    "nombre": "Isabel",
-    "apellido": "Gonz\u00e1lez",
-    "direccion": "Calle 8 # 123-45",
-    "acudiente": "Jorge Gonz\u00e1lez",
-    "telefono": "3008901234"
-  },
-  {
-    "numero_documento": "9",
-    "nombre": "Andr\u00e9s",
-    "apellido": "D\u00edaz",
-    "direccion": "Carrera 9 # 234-56",
-    "acudiente": "Patricia D\u00edaz",
-    "telefono": "3009012345"
-  },
-  {
-    "numero_documento": "10",
-    "nombre": "Sof\u00eda",
-    "apellido": "P\u00e9rez",
-    "direccion": "Calle 10 # 345-67",
-    "acudiente": "Carlos P\u00e9rez",
-    "telefono": "3001023456"
-  },
-  {
-    "numero_documento": "11",
-    "nombre": "Ra\u00fal",
-    "apellido": "Hern\u00e1ndez",
-    "direccion": "Avenida 11 # 456-78",
-    "acudiente": "Luc\u00eda Hern\u00e1ndez",
-    "telefono": "3001123456"
-  },
-  {
-    "numero_documento": "12",
-    "nombre": "Mar\u00eda",
-    "apellido": "Jim\u00e9nez",
-    "direccion": "Call"
-  },
-  {
-    "numero_documento": "1",
-    "Nombres": "1",
-    "Apellidos": "1",
-    "Direccion": "1",
-    "Acudiente": "1",
-    "Telefonos": "1"
-  },
-  {
-    "numero_documento": "2",
-    "Nombres": "2",
-    "Apellidos": "2",
-    "Direccion": "2",
-    "Acudiente": "2",
-    "Telefonos": "2"
-  },
-  {
-    "numero_documento": "3",
-    "Nombres": "3",
-    "Apellidos": "3",
-    "Direccion": "3",
-    "Acudiente": "3",
-    "Telefonos": "33"
-  }
-]}
+  ]
+}
