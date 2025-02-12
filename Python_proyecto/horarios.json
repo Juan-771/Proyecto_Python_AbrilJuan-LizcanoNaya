@@ -51,7 +51,7 @@
         },
         {
             "salon": "Sputnik",
-            "grupo":"n2",
+            "grupo": "n2",
             "hora_inicio": "14:00",
             "hora_fin": "18:00",
             "estudiante": []
@@ -75,7 +75,7 @@
             "grupo": "r1",
             "hora_inicio": "18:00",
             "hora_fin": "22:00",
-            "estudiante":[]
+            "estudiante": []
         },
         {
             "salon": "Apolo",

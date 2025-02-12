@@ -1,103 +1,143 @@
 {
   "campers": [
     {
-      "numero_documento": "1",
-      "nombre": "Ana",
-      "apellido": "Perez",
-      "direccion": "Calle 1 # 234-56",
-      "acudiente": "Carlos Perez",
-      "telefono": "3001234567",
-      "Estado": ["en proceso"],
+      "Numero_documento": "1",
+      "Nombre": "Ana",
+      "Apellido": "Perez",
+      "Direccion": "Calle 1 # 234-56",
+      "Acudiente": "Carlos Perez",
+      "Telefono": "3001234567",
+      "Estado": ["En proceso"],
       "Riesgo ":[],
-      "grupo":[]
+      "Grupo":[]
       
 
     },
     {
-      "numero_documento": "2",
-      "nombre": "Juan",
-      "apellido": "Gomez",
-      "direccion": "Avenida 2 # 567-89",
+      "Numero_documento": "2",
+      "Nombre": "Juan",
+      "Apellido": "Gomez",
+      "Direccion": "Avenida 2 # 567-89",
       "acudiente": "Maria Gomez",
-      "telefono": "3002345678"
+      "Telefono": "3002345678",
+      "Estado" : ["En proceso"],
+      "Riesgo " : [],
+      "Grupo" : []
     },
     {
-      "numero_documento": "3",
-      "nombre": "Carlos",
-      "apellido": "Lopez",
-      "direccion": "Calle 3 # 678-90",
-      "acudiente": "Elena Lopez",
-      "telefono": "3003456789"
+      "Numero_documento": "3",
+      "Nombre": "Carlos",
+      "Apellido": "Lopez",
+      "Direccion": "Calle 3 # 678-90",
+      "Acudiente": "Elena Lopez",
+      "Telefono": "3003456789",
+      "Estado" : ["En proceso"],
+      "Riesgo" : [] ,
+      "Grupo" : []
     },
     {
-      "numero_documento": "4",
-      "nombre": "Laura",
-      "apellido": "Rodriguez",
-      "direccion": "Calle 4 # 789-01",
-      "acudiente": "Jose Rodriguez",
-      "telefono": "3004567890"
+      "Numero_documento": "4",
+      "Nombre": "Laura",
+      "Apellido": "Rodriguez",
+      "Direccion": "Calle 4 # 789-01",
+      "Acudiente": "Jose Rodriguez",
+      "Telefono": "3004567890",
+      "Estado" : ["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
+
     },
     {
-      "numero_documento": "5",
-      "nombre": "Mario",
-      "apellido": "Martinez",
-      "direccion": "Carrera 5 # 890-12",
-      "acudiente": "Raquel Martinez",
-      "telefono": "3005678901"
+      "Numero_documento": "5",
+      "Nombre": "Mario",
+      "Apellido": "Martinez",
+      "Direccion": "Carrera 5 # 890-12",
+      "Acudiente": "Raquel Martinez",
+      "Telefono": "3005678901",
+      "Estado": ["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
     },
     {
-      "numero_documento": "6",
-      "nombre": "Lucia",
-      "apellido": "Fernandez",
-      "direccion": "Calle 6 # 901-23",
-      "acudiente": "Fernando Fernandez",
-      "telefono": "3006789012"
+      "Numero_documento": "6",
+      "Nombre": "Lucia",
+      "Apellido": "Fernandez",
+      "Direccion": "Calle 6 # 901-23",
+      "Acudiente": "Fernando Fernandez",
+      "Telefono": "3006789012",
+      "Estado": ["En proceso"],
+      "Riesgo": [],
+      "Grupo":[]
+
     },
     {
-      "numero_documento": "7",
-      "nombre": "David",
-      "apellido": "Sanchez",
-      "direccion": "Avenida 7 # 012-34",
-      "acudiente": "Marta Sanchez",
-      "telefono": "3007890123"
+      "Numero_documento": "7",
+      "Nombre": "David",
+      "Apellido": "Sanchez",
+      "Direccion": "Avenida 7 # 012-34",
+      "Acudiente": "Marta Sanchez",
+      "Telefono": "3007890123",
+      "Estado": ["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
+
+      
     },
     {
-      "numero_documento": "8",
-      "nombre": "Isabel",
-      "apellido": "Gonzalez",
-      "direccion": "Calle 8 # 123-45",
-      "acudiente": "Jorge Gonzalez",
-      "telefono": "3008901234"
+      "Numero_documento": "8",
+      "Nombre": "Isabel",
+      "Apellido": "Gonzalez",
+      "Direccion": "Calle 8 # 123-45",
+      "Acudiente": "Jorge Gonzalez",
+      "Telefono": "3008901234",
+      "Estado" : ["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
     },
     {
-      "numero_documento": "9",
-      "nombre": "Andres",
-      "apellido": "Diaz",
-      "direccion": "Carrera 9 # 234-56",
-      "acudiente": "Patricia Diaz",
-      "telefono": "3009012345"
+      "Numero_documento": "9",
+      "Nombre": "Andres",
+      "Apellido": "Diaz",
+      "Direccion": "Carrera 9 # 234-56",
+      "Acudiente": "Patricia Diaz",
+      "Telefono": "3009012345",
+      "Estado" :["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
     },
     {
-      "numero_documento": "10",
-      "nombre": "Sofia",
-      "apellido": "Perez",
-      "direccion": "Calle 10 # 345-67",
-      "acudiente": "Carlos Perez",
-      "telefono": "3001023456"
+      "Numero_documento": "10",
+      "Nombre": "Sofia",
+      "Apellido": "Perez",
+      "Direccion": "Calle 10 # 345-67",
+      "Acudiente": "Carlos Perez",
+      "Telefono": "3001023456",
+      "Estado": ["En proceso"],
+      "Riesgo": [],
+      "Grupo": []
+    
     },
     {
-      "numero_documnto": "11",
-      "nombre": "Raul",
-      "apellido": "Hernandez",
-      "direccion": "Avenida 11 # 456-78",
-      "acudiente": "Lucia Hernandez",
-      "telefono": "3001123456"
+      "Numero_documnto": "11",
+      "Nombre": "Raul",
+      "Apellido": "Hernandez",
+      "Direccion": "Avenida 11 # 456-78",
+      "Acudiente": "Lucia Hernandez",
+      "Telefono": "3001123456",
+      "Estado": ["En proceso"],
+      "Riesgo": [],
+      "Grupo":[]
     },
     {
-      "numero_documento": "12",
-      "nombre": "Maria",
-      "apellido": "Jimenenez",
-      "direccion": "Call"
+      "Numero_documento": "12",
+      "Nombre": "Maria",
+      "Apellido": "Jimenenez",
+      "Direccion": "Calle 20#54-10",
+      "Acudiente":"Alfonso Jimenez",
+      "Telefono": "3207344890",
+      "Estado": ["En proceso"],
+      "Riesgo" : [],
+      "Grupo" : []
     }
   ]
 }

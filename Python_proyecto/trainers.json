@@ -1,34 +1,46 @@
 {
     "trainers": [
-        {
+        {   
+            "id":"1",
             "nombre": "Pedro",
             "Jornada": "Fulltime",
-            "Ruta": ["Java"]
+            "Ruta": [
+                "Java"
+            ]
         },
         {
-            "nombre":"Luis",
-            "Jornada":"Fulltime",
-            "Ruta":["NodeJS"]
+            "id":"2",
+            "nombre": "Luis",
+            "Jornada": "Fulltime",
+            "Ruta": [
+                "NodeJS"
+            ]
         },
         {
-            "nombre":"Jorge",
-            "Jornada":"Fulltime",
-            "Ruta":[".NET"]
+            "id":"3",
+            "nombre": "Jorge",
+            "Jornada": "Fulltime",
+            "Ruta": [
+                ".NET"
+            ]
         },
         {
-            "nombre":"Naya",
-            "Jornada":"Midtime",
-            "Ruta":[]
+            "id":"4",
+            "nombre": "Naya",
+            "Jornada": "Midtime",
+            "Ruta": []
         },
         {
-            "nombre":"Mario",
-            "Jornada":"Midtime",
-            "Ruta":[]
+            "id":"5",
+            "nombre": "Mario",
+            "Jornada": "Midtime",
+            "Ruta": []
         },
         {
-            "nombre":"Rafael",
-            "Jornada":"Midtime",
-            "Ruta":[]
+            "id":"6",
+            "nombre": "Rafael",
+            "Jornada": "Midtime",
+            "Ruta": []
         }
     ]
 }

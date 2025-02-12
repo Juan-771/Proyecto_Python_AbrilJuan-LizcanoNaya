@@ -1,13 +1,7 @@
 {
-    "salones":[
-        {
-            "Artemis":[]
-        },
-        {
-            "Sputnik":[]
-        },
-        {
-            "Apolo":[]
-        }
+    "salones": [
+        "Artemis",
+        "Sputnik",
+        "Apolo"
     ]
 }
