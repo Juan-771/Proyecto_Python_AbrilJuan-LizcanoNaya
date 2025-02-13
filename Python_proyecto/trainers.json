@@ -1,0 +1,46 @@
+{
+    "trainers": [
+        {   
+            "id":"1",
+            "nombre": "Pedro",
+            "Jornada": "Fulltime",
+            "Ruta": [
+                "Java"
+            ]
+        },
+        {
+            "id":"2",
+            "nombre": "Luis",
+            "Jornada": "Fulltime",
+            "Ruta": [
+                "NodeJS"
+            ]
+        },
+        {
+            "id":"3",
+            "nombre": "Jorge",
+            "Jornada": "Fulltime",
+            "Ruta": [
+                ".NET"
+            ]
+        },
+        {
+            "id":"4",
+            "nombre": "Naya",
+            "Jornada": "Midtime",
+            "Ruta": []
+        },
+        {
+            "id":"5",
+            "nombre": "Mario",
+            "Jornada": "Midtime",
+            "Ruta": []
+        },
+        {
+            "id":"6",
+            "nombre": "Rafael",
+            "Jornada": "Midtime",
+            "Ruta": []
+        }
+    ]
+}

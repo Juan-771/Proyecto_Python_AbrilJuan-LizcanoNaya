@@ -1,0 +1,88 @@
+{
+    "horario": [
+        {
+            "salon": "Artemis",
+            "grupo": "p1",
+            "hora_inicio": "06:00",
+            "hora_fin": "10:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Sputnik",
+            "grupo": "p2",
+            "hora_inicio": "06:00",
+            "hora_fin": "10:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Apolo",
+            "grupo": "l1",
+            "hora_inicio": "06:00",
+            "hora_fin": "10:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Artemis",
+            "grupo": "l2",
+            "hora_inicio": "10:00",
+            "hora_fin": "14:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Sputnik",
+            "grupo": "j1",
+            "hora_inicio": "10:00",
+            "hora_fin": "14:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Apolo",
+            "grupo": "j2",
+            "hora_inicio": "10:00",
+            "hora_fin": "14:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Artemis",
+            "grupo": "n1",
+            "hora_inicio": "14:00",
+            "hora_fin": "18:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Sputnik",
+            "grupo": "n2",
+            "hora_inicio": "14:00",
+            "hora_fin": "18:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Apolo",
+            "grupo": "m1",
+            "hora_inicio": "14:00",
+            "hora_fin": "18:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Artemis",
+            "grupo": "m2",
+            "hora_inicio": "18:00",
+            "hora_fin": "22:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Sputnik",
+            "grupo": "r1",
+            "hora_inicio": "18:00",
+            "hora_fin": "22:00",
+            "estudiante": []
+        },
+        {
+            "salon": "Apolo",
+            "grupo": "r2",
+            "hora_inicio": "18:00",
+            "hora_fin": "22:00",
+            "estudiante": []
+        }
+    ]
+}
