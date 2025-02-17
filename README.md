@@ -8,12 +8,16 @@ Elaboramos un proyecto, para admistrar las funciones que proporciona CampusLands
 
 ## TABLA DE CONTENIDOS 
  | Modulos | | Descripcion | 
- | - -|- - |
+ | - -| - - |
  | Logica | En el modulo de logica se manejan los condicionales | 
  | Modulos | En los modulos podemos ver la informacion de los campers, e ingreso de trainers y coordinadora |
  | Diseño | En el modulo de diseño se manejan los menus y es donde se ve toda la parte principal del programa  | 
 
  
- 
+ ## INSTALACION 
+Necesariamente tenemos que usar la aplicacion de Python, usar JSON con su respectiva informacion
+
+## EXPLICACION 
+
  
 
