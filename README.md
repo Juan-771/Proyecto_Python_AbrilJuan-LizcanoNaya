@@ -18,6 +18,6 @@ Elaboramos un proyecto, para admistrar las funciones que proporciona CampusLands
 Necesariamente tenemos que usar la aplicacion de Python, usar JSON con su respectiva informacion
 
 ## EXPLICACION 
-
+`Python_proyecto/principal.py` Este codigo  es el primordial en la aplicacion ya que es el principal y el que nos ayuda a ejecutar todas las funciones 
  
 
